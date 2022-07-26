@@ -1,6 +1,6 @@
 <div align="center"> 
   </br>
-    <img src="https://raw.githubusercontent.com/OrdChaos/OrdChaos/main/avatar.png" width="200" />
+    <img src="https://cdn1.tianli0.top/gh/OrdChaos/OrdChaos@master/avatar.png" width="200" />
   </br>
   
   # 序炁 OrdChaos
