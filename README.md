@@ -1,6 +1,6 @@
 <div align="center"> 
   </br>
-    <img src="https://jsd.ordchaos.com/gh/OrdChaos/OrdChaos@master/github-metrics.svg" width="200" />
+    <img src="https://jsd.ordchaos.com/gh/OrdChaos/OrdChaos@master/avatar.png" width="200" />
   </br>
   
   # 序炁 OrdChaos
@@ -10,7 +10,7 @@
   </br>
 </div>
 
-![](github-metrics.svg#pic_center)
+![](https://jsd.ordchaos.com/gh/OrdChaos/OrdChaos@master/github-metrics.svg#pic_center)
 
 ## 👨🏻 关于我
 - 性别：男  
