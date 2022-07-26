@@ -17,5 +17,5 @@
 - 🤔 如果你在信奥方面有经验，一起欢迎探讨！
 
 ## 📫 联系方式
-E-mail: orderchaos@ordchaos.com
-博客: https://www.ordchaos.com
+- E-mail: orderchaos@ordchaos.com
+- 博客: https://www.ordchaos.com
