@@ -10,7 +10,7 @@
   </br>
 </div>
 
-![](https://jsd.ordchaos.com/gh/OrdChaos/OrdChaos@master/github-metrics.svg#pic_center)
+![](/github-metrics.svg#pic_center)
 
 ### 👨‍💻 关于我
 - ⚧️性别：男  
