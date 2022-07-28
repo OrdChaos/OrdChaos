@@ -19,12 +19,12 @@
 - 💕爱好：编程, 音game
 - 🏆成就：蓝桥杯Scratch组全国第19名等
 
-#### 💬 状态
+### 💬 状态
 - 🔭现阶段目标：如你所见，正在备战中考，我会继续努力的！
 - 🌱课外学习：正在学习[C++](https://github.com/topics/cpp)，争取在CSP-J中取得好成绩！
 - 🎮游戏：玩Minecraft, Phigros和Muse Dash.
 - 🤔交流：如果你在信奥方面有经验，一起欢迎探讨！
 
-## 📫 联系方式
+### 📫 联系方式
 - 📧E-mail: orderchaos@ordchaos.com
 - 🔗博客: https://www.ordchaos.com
