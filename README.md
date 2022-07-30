@@ -1,6 +1,6 @@
 <div align="center"> 
   </br>
-    <img src="https://jsd.ordchaos.com/gh/OrdChaos/OrdChaos@master/avatar.png" width="200" />
+    <img src="https://jsdcdn-ordchaos.vercel.app/gh/OrdChaos/OrdChaos@master/avatar.png" width="200" />
   </br>
   
   # 序炁 OrdChaos
