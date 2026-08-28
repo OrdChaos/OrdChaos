@@ -69,7 +69,7 @@
                             <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" width="16" height="16">
                                 <path fill-rule="evenodd" d="M10.5 7.75a2.5 2.5 0 11-5 0 2.5 2.5 0 015 0zm1.43.75a4.002 4.002 0 01-7.86 0H.75a.75.75 0 110-1.5h3.32a4.001 4.001 0 017.86 0h3.32a.75.75 0 110 1.5h-3.32z"/>
                             </svg>
-                            1360 Commits
+                            1364 Commits
                         </div>
                         <div class="field">
                             <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" width="16" height="16">
@@ -219,14 +219,14 @@
                         <rect x="0" y="0" width="920" height="8" fill="white" rx="5"/>
                     </mask>
                     <rect mask="url(#languages-bar)" x="0" y="0" width="0" height="8" fill="#d1d5da"/>
-                    <rect mask="url(#languages-bar)" x="0" y="0" width="543.5706742851123" height="8" fill="#f34b7d"/>
-                    <rect mask="url(#languages-bar)" x="543.5706742851123" y="0" width="177.33050606707684" height="8" fill="#1e4aec"/>
-                    <rect mask="url(#languages-bar)" x="720.9011803521892" y="0" width="76.81231858526696" height="8" fill="#3178c6"/>
-                    <rect mask="url(#languages-bar)" x="797.713498937456" y="0" width="60.42371557582194" height="8" fill="#555555"/>
-                    <rect mask="url(#languages-bar)" x="858.1372145132781" y="0" width="17.07362040322833" height="8" fill="#ff5a03"/>
-                    <rect mask="url(#languages-bar)" x="875.2108349165064" y="0" width="16.894708185141216" height="8" fill="#dea584"/>
-                    <rect mask="url(#languages-bar)" x="892.1055431016476" y="0" width="15.878992739186675" height="8" fill="#8ea64c"/>
-                    <rect mask="url(#languages-bar)" x="907.9845358408344" y="0" width="12.015464159165747" height="8" fill="#89e051"/>
+                    <rect mask="url(#languages-bar)" x="0" y="0" width="541.0542977383031" height="8" fill="#f34b7d"/>
+                    <rect mask="url(#languages-bar)" x="541.0542977383031" y="0" width="179.46055765173443" height="8" fill="#1e4aec"/>
+                    <rect mask="url(#languages-bar)" x="720.5148553900376" y="0" width="76.45672781089675" height="8" fill="#3178c6"/>
+                    <rect mask="url(#languages-bar)" x="796.9715832009344" y="0" width="60.1439933098148" height="8" fill="#555555"/>
+                    <rect mask="url(#languages-bar)" x="857.1155765107492" y="0" width="17.113505613516494" height="8" fill="#8ea64c"/>
+                    <rect mask="url(#languages-bar)" x="874.2290821242657" y="0" width="16.994580712560126" height="8" fill="#ff5a03"/>
+                    <rect mask="url(#languages-bar)" x="891.2236628368258" y="0" width="16.816496740974944" height="8" fill="#dea584"/>
+                    <rect mask="url(#languages-bar)" x="908.0401595778008" y="0" width="11.959840422199226" height="8" fill="#89e051"/>
                 </svg>
                 <div class="field center horizontal-wrap fill-width">
                     <div class="field center no-wrap language">
@@ -255,6 +255,12 @@
                     </div>
                     <div class="field center no-wrap language">
                         <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" width="16" height="16">
+                            <path fill="#8ea64c" fill-rule="evenodd" d="M8 4a4 4 0 100 8 4 4 0 000-8z"/>
+                        </svg>
+                        Tree-sitter Query
+                    </div>
+                    <div class="field center no-wrap language">
+                        <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" width="16" height="16">
                             <path fill="#ff5a03" fill-rule="evenodd" d="M8 4a4 4 0 100 8 4 4 0 000-8z"/>
                         </svg>
                         Astro
@@ -264,12 +270,6 @@
                             <path fill="#dea584" fill-rule="evenodd" d="M8 4a4 4 0 100 8 4 4 0 000-8z"/>
                         </svg>
                         Rust
-                    </div>
-                    <div class="field center no-wrap language">
-                        <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" width="16" height="16">
-                            <path fill="#8ea64c" fill-rule="evenodd" d="M8 4a4 4 0 100 8 4 4 0 000-8z"/>
-                        </svg>
-                        Tree-sitter Query
                     </div>
                     <div class="field center no-wrap language">
                         <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" width="16" height="16">
@@ -299,7 +299,7 @@
             </section>
             <footer>
                 <span>These metrics include private contributions</span>
-                <span>Last updated 28 Aug 2026, 22:07:18 (timezone Asia/Shanghai) with lowlighter/metrics@3.35.0-beta</span>
+                <span>Last updated 29 Aug 2026, 07:55:19 (timezone Asia/Shanghai) with lowlighter/metrics@3.35.0-beta</span>
             </footer>
         </div>
         <div xmlns="http://www.w3.org/1999/xhtml" id="metrics-end"></div>
